@@ -1,5 +1,5 @@
 #include "variables.h"
-#include <math.h>
+
 #include <SpeedTrig.h>
 
 void initVariables(){
